@@ -1,0 +1,42 @@
+
+respuestas TXT
+
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los
+ siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+  Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+for:
+es un Bucle que evalua una y otra vez hasta encontrat el valor buscado, es mas complejo qie el 'IF'
+el for va seguido de () donde declararemps tres cosas, entre ellas una  variable, lo que la hara condicional.
+el bucle se detendra cuando sea false. 
+
+
+
+
+
+
+&&, ||, !
+ && = and,  Y, en jn operador logico, que evalua que dos variables sean o falsas o verdaderas ambas.
+
+ || = O,  Or:  es un operador logico que evalua que dos o mas variables sean un valor u otro.
+
+ ! = no, Not : operador logico que devuelve el valor opuesto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
