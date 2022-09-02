@@ -1,0 +1,54 @@
+
+Variables:
+es una forma de almacenatr Valor, una de las formas mas 
+comunes de Declararla 
+es Var o lef.
+
+
+Strings:
+son textos (letras, simbolos) que se pueden identificar por que se escriben estre 
+comillas '', "".
+
+
+Funciones (argumentos, return)
+son bloques de funciones u operaciones,
+argumentos: es el valor real asignado a la funcion
+
+
+return: son funciones que devuelven algun valor.
+
+
+Declaraciones if:
+son flujos de valores y comparadores que devuelven algun valor dependiendo de  la condicion solicitada.
+
+
+Valores booleanos (true, false):
+son codigos que nos brindan dos valores True = verdadero o false= falso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
