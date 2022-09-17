@@ -1,0 +1,8 @@
+Array:
+
+//son contenedores de diferentes tipos de datos que podemos 
+asignar a una variable, en este caso los array, nos permite 
+asignar mas de un un datos a dichas variables dentro del contenedor [], los cuales pueden 
+ser cadenas/string, numeros, booleanos, ademas nos permiten contar, 
+agregar y quitar en dichos conteos.
+
